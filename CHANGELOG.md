@@ -2,6 +2,14 @@
 
 All notable Rootline changes are recorded here.
 
+## Unreleased
+
+- Adds GitHub issue templates for documentation feedback and compatibility
+  reports.
+- Adds a pull request template with a Rootline receipt.
+- Adds a `compatibility` issue label.
+- Keeps contribution template guidance in `CONTRIBUTING.md`.
+
 ## 0.1.1
 
 Maintenance release.

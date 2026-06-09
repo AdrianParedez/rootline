@@ -1,6 +1,6 @@
 ## Summary
 
-- 
+Briefly describe the change.
 
 ## Checks
 
@@ -15,4 +15,3 @@
 - Docs updated:
 - Checks run:
 - Gaps:
-

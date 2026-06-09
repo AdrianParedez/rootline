@@ -116,6 +116,12 @@ curl -fsSL https://raw.githubusercontent.com/AdrianParedez/rootline/v0.1.1/AGENT
 ```
 
 ```powershell
+iwr https://raw.githubusercontent.com/AdrianParedez/rootline/v0.1.1/AGENTS.md -OutFile AGENTS.md
+```
+
+For a custom output path:
+
+```powershell
 Invoke-WebRequest `
   -Uri "https://raw.githubusercontent.com/AdrianParedez/rootline/v0.1.1/AGENTS.md" `
   -OutFile "X:\path\to\project\AGENTS.md"

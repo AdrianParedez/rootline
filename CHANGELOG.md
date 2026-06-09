@@ -11,6 +11,7 @@ All notable Rootline changes are recorded here.
 - Keeps contribution template guidance in `CONTRIBUTING.md`.
 - Points the VS Code compatibility note at the dedicated custom-instructions
   documentation.
+- Adds a one-line PowerShell direct install command.
 
 ## 0.1.1
 

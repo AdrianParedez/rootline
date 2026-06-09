@@ -9,6 +9,7 @@ work easier to route, verify, or maintain.
 - Keep public explanation in `README.md`.
 - Keep release notes in `CHANGELOG.md`.
 - Keep security-sensitive reporting guidance in `SECURITY.md`.
+- Keep GitHub issue and pull request templates short and practical.
 - Do not commit internal reports or local analysis artifacts.
 - Prefer concise, durable guidance over task history.
 - Do not add runtime dependencies unless Rootline stops being Markdown-only.

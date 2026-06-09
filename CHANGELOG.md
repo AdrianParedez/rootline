@@ -9,6 +9,8 @@ All notable Rootline changes are recorded here.
 - Adds a pull request template with a Rootline receipt.
 - Adds a `compatibility` issue label.
 - Keeps contribution template guidance in `CONTRIBUTING.md`.
+- Points the VS Code compatibility note at the dedicated custom-instructions
+  documentation.
 
 ## 0.1.1
 

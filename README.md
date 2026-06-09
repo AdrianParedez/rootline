@@ -236,7 +236,7 @@ publishing or changing tool-specific claims.
 | --- | --- |
 | [Codex](https://developers.openai.com/codex/guides/agents-md) | Uses `AGENTS.md` directly. |
 | [GitHub Copilot](https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/add-custom-instructions/add-repository-instructions) | Supports `AGENTS.md` files in the repository tree. |
-| [VS Code agent customizations](https://code.visualstudio.com/docs/agent-customization/overview) | Can load `AGENTS.md` as always-on workspace instructions. |
+| [VS Code agent customizations](https://code.visualstudio.com/docs/agent-customization/custom-instructions) | Can load `AGENTS.md` as always-on workspace instructions. |
 | [OpenCode](https://opencode.ai/docs/rules/) | Uses `AGENTS.md` and can improve one through `/init`. |
 | [Claude Code](https://code.claude.com/docs/en/memory) | Use `CLAUDE.md` with `@AGENTS.md`, or a symlink where appropriate. |
 

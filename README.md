@@ -105,6 +105,21 @@ Copy-Item .\AGENTS.md X:\path\to\project\AGENTS.md
 
 </details>
 
+<details>
+<summary><strong>Direct from GitHub</strong></summary>
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/AdrianParedez/rootline/main/AGENTS.md -o /path/to/project/AGENTS.md
+```
+
+```powershell
+Invoke-WebRequest `
+  -Uri "https://raw.githubusercontent.com/AdrianParedez/rootline/main/AGENTS.md" `
+  -OutFile "X:\path\to\project\AGENTS.md"
+```
+
+</details>
+
 <kbd>Step 2</kbd> Ask an agent to install the project facts.
 
 ```text

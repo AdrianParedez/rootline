@@ -10,5 +10,5 @@ Initial protocol release.
 - Adds `Route Brief`, `Route Protocol`, `Local Anchors`, `Drift Control`,
   `Receipt Protocol`, `Operator Profile`, and `Route Map` terminology.
 - Documents public usage in `README.md`.
+- Adds local-copy and raw-file install examples.
 - Licenses the project under Apache-2.0.
-

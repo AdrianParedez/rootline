@@ -2,6 +2,15 @@
 
 All notable Rootline changes are recorded here.
 
+## 0.1.1
+
+Maintenance release.
+
+- Pins direct raw-file install examples to the `v0.1.1` release tag.
+- Adds public security reporting guidance.
+- Keeps GitHub Wiki and Projects disabled so repository Markdown remains the
+  canonical documentation surface.
+
 ## 0.1.0
 
 Initial protocol release.

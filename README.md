@@ -6,7 +6,7 @@ Keep the public story here. Keep agent-operating rules in AGENTS.md.
 <p align="center">
   <code>AGENTS.md</code>
   <code>Apache-2.0</code>
-  <code>v0.1.0</code>
+  <code>v0.1.1</code>
   <code>runtime:none</code>
 </p>
 
@@ -28,6 +28,8 @@ Keep the public story here. Keep agent-operating rules in AGENTS.md.
   |
   <a href="#contributing">Contributing</a>
   |
+  <a href="#security">Security</a>
+  |
   <a href="#license">License</a>
   |
   <a href="#credits">Credits</a>
@@ -44,6 +46,7 @@ Keep the public story here. Keep agent-operating rules in AGENTS.md.
 - [Install checklist](#install-checklist)
 - [Changelog](#changelog)
 - [Contributing](#contributing)
+- [Security](#security)
 - [License](#license)
 - [Credits](#credits)
 
@@ -109,12 +112,12 @@ Copy-Item .\AGENTS.md X:\path\to\project\AGENTS.md
 <summary><strong>Direct from GitHub</strong></summary>
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/AdrianParedez/rootline/main/AGENTS.md -o /path/to/project/AGENTS.md
+curl -fsSL https://raw.githubusercontent.com/AdrianParedez/rootline/v0.1.1/AGENTS.md -o /path/to/project/AGENTS.md
 ```
 
 ```powershell
 Invoke-WebRequest `
-  -Uri "https://raw.githubusercontent.com/AdrianParedez/rootline/main/AGENTS.md" `
+  -Uri "https://raw.githubusercontent.com/AdrianParedez/rootline/v0.1.1/AGENTS.md" `
   -OutFile "X:\path\to\project\AGENTS.md"
 ```
 
@@ -259,7 +262,7 @@ publishing or changing tool-specific claims.
 
 ## Changelog
 
-Current protocol version: `0.1.0`.
+Current protocol version: `0.1.1`.
 
 See [CHANGELOG.md](./CHANGELOG.md) for release notes.
 
@@ -268,6 +271,12 @@ See [CHANGELOG.md](./CHANGELOG.md) for release notes.
 ## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidance.
+
+---
+
+## Security
+
+See [SECURITY.md](./SECURITY.md) for security-sensitive reporting guidance.
 
 ---
 
